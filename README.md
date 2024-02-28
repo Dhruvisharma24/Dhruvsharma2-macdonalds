@@ -1,2 +1,2 @@
-This Is My First Assignment- 
-["MacDonald Burgers"]([https://dhruvisharma24.github.io/Dhruvsharma2-macdonalds/])
+This Is My First CSS Assignment- 
+["CSS Assignement Live"](https://vikasinder.github.io/CSS-Assignment/)
